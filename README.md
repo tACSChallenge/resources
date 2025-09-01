@@ -1,4 +1,4 @@
-# Resources (for final review)
+# Resources
 
 Here you can find:
 1. The accepted stage 1 registered report
